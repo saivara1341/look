@@ -55,10 +55,9 @@ To run this project locally, you need a web browser (Chrome, Firefox, Safari, et
 
 ```plaintext
 .
-├── index.html        # Main HTML file
-├── login.html        # Login HTML file
+├── login.html        # login HTML file
+├── index.html        # main HTML file
 ├── style.css         # CSS file for styling
 ├── login.js          # JavaScript file for login functionality
 ├── script.js         # JavaScript file for main page functionality
-├── your-video.mp4    # Background video file
 └── README.md         # This README file
